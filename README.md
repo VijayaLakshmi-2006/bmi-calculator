@@ -29,8 +29,11 @@ BMI = Weight (kg) / (Height (m) × Height (m))
 bmi-calculator
 │
 ├── index.html
+
 ├── style.css
+
 ├── app.js
+
 └── file-code.txt
 
 ## Author

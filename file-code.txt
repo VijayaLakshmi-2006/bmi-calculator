@@ -1,3 +1,4 @@
 git remote add origin https://github.com/jk060106/bmi-calculator.git
 git branch -M main
 git push -u origin main
+updated

@@ -5,3 +5,4 @@ function calc(){
     console.log(bmi)
     let result = document.getElementById('result').innerText=bmi
 }
+ // updated
